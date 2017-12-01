@@ -1,10 +1,10 @@
 # Tensorflow
-## Author: Qi Fu
-## Lecturer: Dr [Ian McLoughlin](https://ianmcloughlin.github.io/)
+* Author: Qi Fu
+* Lecturer: Dr [Ian McLoughlin](https://ianmcloughlin.github.io/)
 
 A solution for [tensorflow problems sheet](https://emerging-technologies.github.io/problems/tensorflow.html)
 
-## Modeul: EmergingTechnologies
+### Modeul: EmergingTechnologies
 Basic tecnhonlogies 
 > Python programming language
 
